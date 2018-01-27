@@ -16,6 +16,7 @@ task :clean do
 end
 
 task :test do
+    sh "./test/test-affirmative.rb"
     sh "rubocop lib/affirmative.rb"
 end
 
