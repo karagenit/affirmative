@@ -1,5 +1,8 @@
+##
+# Core Ruby String Class
+#
 class String
   def affirmative?
-    ['y', 'yes'].include? self.to_s.downcase
+    %w[y yes].include? to_s.downcase
   end
 end
