@@ -1,5 +1,13 @@
 # Change Log
 
+## [v1.0.1](https://github.com/karagenit/affirmative/tree/v1.0.1) (2018-01-27)
+[Full Changelog](https://github.com/karagenit/affirmative/compare/v1.0.0...v1.0.1)
+
+**Closed issues:**
+
+- Fix Rubocop Warnings [\#2](https://github.com/karagenit/affirmative/issues/2)
+- Add Tests [\#1](https://github.com/karagenit/affirmative/issues/1)
+
 ## [v1.0.0](https://github.com/karagenit/affirmative/tree/v1.0.0) (2018-01-27)
 
 
