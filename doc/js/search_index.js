@@ -1,0 +1,1 @@
+var search_data = {"index":{"searchIndex":["string","affirmative?()"],"longSearchIndex":["string","string#affirmative?()"],"info":[["String","","String.html","",""],["affirmative?","String","String.html#method-i-affirmative-3F","()",""]]}}
