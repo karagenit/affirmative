@@ -10,6 +10,7 @@ class TestAffirmative < Test::Unit::TestCase
     assert 'yes'.affirmative?
     assert 'Yes'.affirmative?
     assert 'YES'.affirmative?
+    assert " yes \n\t".affirmative?
   end
 
   def test_negative
