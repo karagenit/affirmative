@@ -3,6 +3,6 @@
 #
 class String
   def affirmative?
-    %w[y yes].include? to_s.downcase
+    %w[y yes].include? strip.downcase
   end
 end
