@@ -1,5 +1,12 @@
 # Change Log
 
+## [v1.1.0](https://github.com/karagenit/affirmative/tree/v1.1.0) (2018-01-28)
+[Full Changelog](https://github.com/karagenit/affirmative/compare/v1.0.1...v1.1.0)
+
+**Closed issues:**
+
+- Include Chomp? [\#3](https://github.com/karagenit/affirmative/issues/3)
+
 ## [v1.0.1](https://github.com/karagenit/affirmative/tree/v1.0.1) (2018-01-27)
 [Full Changelog](https://github.com/karagenit/affirmative/compare/v1.0.0...v1.0.1)
 
