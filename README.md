@@ -23,13 +23,19 @@ require 'affirmative'
 > "y".affirmative?
 => true
 
-> "Yes".affirmative?
+> "  Yes\n".affirmative?
 => true
+
+> "No".affirmative?
+=> false
+
+> "Potato".affirmative?
+=> false
 ```
 
 Typical usage in a script:
 
 ```
 print "Confirm (y/n): "
-do_thing if gets.chomp.affirmative?
+do_thing if gets.affirmative?
 ```
